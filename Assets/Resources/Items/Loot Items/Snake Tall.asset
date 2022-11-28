@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de37c9996a4c6c14499b1d9f2cdf01c6, type: 3}
+  m_Name: Snake Tall
+  m_EditorClassIdentifier: 
+  id: Snake tall
+  displayName: Snake tall
+  description: Loot item after kill monter
+  type: 0
+  icon: {fileID: 21300000, guid: 0c8103dea9d5dfd4e84183566767a42f, type: 3}
+  CraftIcon: {fileID: 21300000, guid: c76d7c68e7e462946a3feb2c19029b53, type: 3}
+  dropPrefab: {fileID: 8508774490813173747, guid: a31dddb0981919d40b697b5396a64b66, type: 3}
+  canStack: 1
+  maxStackAmount: 99
+  statsOfItem: []
+  equipPrefab: {fileID: 0}

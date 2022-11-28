@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de37c9996a4c6c14499b1d9f2cdf01c6, type: 3}
+  m_Name: Normal Mushroom
+  m_EditorClassIdentifier: 
+  id: Normal Mushroom
+  displayName: Normal Mushroom
+  description: Loot item after kill monter
+  type: 0
+  icon: {fileID: 21300000, guid: b6d43890edb57d64f85582feb4663e10, type: 3}
+  CraftIcon: {fileID: 21300000, guid: 8d41d44a500294b41b021990d45b3245, type: 3}
+  dropPrefab: {fileID: 2615917634530885312, guid: fe3b8cd665003bc48870c0f035f4cbc2, type: 3}
+  canStack: 1
+  maxStackAmount: 99
+  statsOfItem: []
+  equipPrefab: {fileID: 0}
