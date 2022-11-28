@@ -15,7 +15,7 @@ public class BossController : MonoBehaviour
     public float chaseRadius;
     public float attackRadius;
 
-    private bool canMoveL, canMoveR, m_FacingRight;
+    //private bool canMoveL, canMoveR, m_FacingRight;
 
     private void Awake()
     {
